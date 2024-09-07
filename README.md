@@ -1,4 +1,4 @@
-# Primeiro Projeto Git
+# Primeiro Projeto Git e Github
 ### Meu primeiro projeto Github nas aulas do professor Júnior
 
 - **Faculdade** Fatec Ogari de Castro Pacheco (Itapira)
